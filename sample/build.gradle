@@ -24,9 +24,7 @@ android {
             proguardFiles 'proguard-rules.pro'
         }
     }
-    lintOptions{
-        abortOnError = false
-    }
+    
 }
 
 dependencies {
